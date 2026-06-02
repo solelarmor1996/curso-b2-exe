@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260602215352AUKA5P</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260602215352SQEHES</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA8. LOS ANIMALES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>ANIMALES EN PELIGRO DE EXTINCIÓN</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Soledad Lara Morales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta situación de aprendizaje propone el estudio de los distintos grupos de animales vertebrados, orientando el aprendizaje hacia la sensibilización y el reconocimiento de los animales que se encuentran en riesgo de extinción.
+El producto final de la presente SDA consistirá en realizar un póster sobre los animales en peligro de extinción que ayude a concienciar sobre la importancia de cuidar y conservar la fauna de nuestro planeta. Para ello, el alumnado hará uso de la herramienta digital Canva.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780429545581</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpx0vzxr-ki49vfljt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y JUSTIFICACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN Y JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxr-ki49vfljt</odePageId>
+      <odeBlockId>block-1780325133654-1p7jr2zz0</odeBlockId>
+      <blockName>SDA8. LOS ANIMALES.</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxr-ki49vfljt</odePageId>
+          <odeBlockId>block-1780325133654-1p7jr2zz0</odeBlockId>
+          <odeIdeviceId>idevice-1780325133650-t3nx0tif3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Centro de interés</strong>: Esta situación de aprendizaje propone el estudio de los distintos grupos de animales vertebrados, orientando el aprendizaje hacia la sensibilización y el reconocimiento de los animales que se encuentran en riesgo de extinción.</p>
+<p><strong>Nivel al que va dirigido</strong>: 2º de Educación Primaria</p>
+<p><strong>Temporalización</strong>: 10 días hábiles (2 semanas) </p>
+<p><strong>Áreas implicadas</strong>: Conocimiento del Medio y Lengua Castellana y Literatura </p>
+<p><strong>Idioma</strong>: español</p>
+<p><strong>Descripción</strong>: El producto final de la presente SDA consistirá en realizar un póster sobre los animales en peligro de extinción que ayude a concienciar sobre la importancia de cuidar y conservar la fauna de nuestro planeta. Para ello, el alumnado hará uso de la herramienta digital Canva.</p>
+<p><strong>Justificación</strong>: El aprendizaje sobre los animales en peligro de extinción permite al alumnado tomar conciencia de la importancia de conservar la biodiversidad y el medioambiente. Además, sensibiliza sobre el grave problema de la extinción de especies, fomentando una actitud responsable y comprometida con la protección de la naturaleza. Además, el uso de herramientas como Canva o Genially, adaptadas al nivel de mi alumnado, supone un primer acercamiento lúdico a las TIC. Esto transforma la tecnología en una herramienta de creación y no solo de ocio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780325133650-t3nx0tif3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Centro de interés</strong>: Esta situación de aprendizaje propone el estudio de los distintos grupos de animales vertebrados, orientando el aprendizaje hacia la sensibilización y el reconocimiento de los animales que se encuentran en riesgo de extinción.</p>\n<p><strong>Nivel al que va dirigido</strong>: 2º de Educación Primaria</p>\n<p><strong>Temporalización</strong>: 10 días hábiles (2 semanas) </p>\n<p><strong>Áreas implicadas</strong>: Conocimiento del Medio y Lengua Castellana y Literatura </p>\n<p><strong>Idioma</strong>: español</p>\n<p><strong>Descripción</strong>: El producto final de la presente SDA consistirá en realizar un póster sobre los animales en peligro de extinción que ayude a concienciar sobre la importancia de cuidar y conservar la fauna de nuestro planeta. Para ello, el alumnado hará uso de la herramienta digital Canva.</p>\n<p><strong>Justificación</strong>: El aprendizaje sobre los animales en peligro de extinción permite al alumnado tomar conciencia de la importancia de conservar la biodiversidad y el medioambiente. Además, sensibiliza sobre el grave problema de la extinción de especies, fomentando una actitud responsable y comprometida con la protección de la naturaleza. Además, el uso de herramientas como Canva o Genially, adaptadas al nivel de mi alumnado, supone un primer acercamiento lúdico a las TIC. Esto transforma la tecnología en una herramienta de creación y no solo de ocio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx0vzxt-cswmkdq7m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxt-cswmkdq7m</odePageId>
+      <odeBlockId>block-1780325387764-unw4zgn01</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxt-cswmkdq7m</odePageId>
+          <odeBlockId>block-1780325387764-unw4zgn01</odeBlockId>
+          <odeIdeviceId>idevice-1780325387758-y7taks5qi</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1fzXUCsnqQFqV4ADtCANZ50fCcB4TCkawojBLlkRRFGM/edit?tab=t.0#heading=h.v3kpl8zcktok" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx0vzxt-43g2sjhbz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxt-43g2sjhbz</odePageId>
+      <odeBlockId>block-1780325593532-u0qvftbzl</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxt-43g2sjhbz</odePageId>
+          <odeBlockId>block-1780325593532-u0qvftbzl</odeBlockId>
+          <odeIdeviceId>idevice-1780325593527-2s3g78gtj</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780325593527-2s3g78gtj" title="" href="{{context_path}}/content/resources/Infografía_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780325593527-2s3g78gtj","img_0":{"img":"{{context_path}}/content/resources/Infografía_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/Infografía_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx0vzxu-qm1xlyx7a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxu-qm1xlyx7a</odePageId>
+      <odeBlockId>block-1780325812000-73bhx2zh3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxu-qm1xlyx7a</odePageId>
+          <odeBlockId>block-1780325812000-73bhx2zh3</odeBlockId>
+          <odeIdeviceId>idevice-1780325811998-smdxuvgxu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de la presente SDA consistirá en realizar un póster sobre los animales en peligro de extinción que ayude a concienciar sobre la importancia de cuidar y conservar la fauna de nuestro planeta. Para ello, el alumnado hará uso de la herramienta digital Canva, haciendo uso de los portátiles que dispone el centro.</p>
+<p>Creo que esta herramienta digital se adecúa al desarrollo evolutivo de mi alumnado de 2º de Educación Primaria. Por un lado, es una herramienta intuitiva que utiliza la lógica de “arrastrar y soltar”, por lo que la manera de trabajar es muy natural e intuitiva para estas edades. Además, ayuda a simplificar la tarea, permitiendo que el alumnado se centre en la decisión estética del contenido sin que la dificultad de dibujar o recortar manualmente, lo que es una barrera para quienes tienen dificultades motoras.</p>
+<p>Asimismo, Canva permite trabajar con elementos gráficos que ayudan a los alumnos que aún no tienen una lectoescritura fluida a comprender y transmitir conceptos, por ejemplo, a través de iconos.</p>
+<p>Por otro lado, como docente, me permite crear una plantilla controlada, con el fondo fijo y los cuadros de texto ya ubicados, dejando que el alumnado solo inserte la foto del animal y su nombre. Esto garantiza que el producto final sea exitoso, reforzando su autoestima y motivación. Además, me permite entrar en sus diseños en tiempo real para ayudarles o corregir pequeñas erratas sin tener que estar físicamente al lado de cada uno.</p>
+<figure class="exe-figure position-center" style="width: 140px;"><img src="{{context_path}}/content/resources/images.jpeg" width="140" height="140" alt="" />
+<figcaption class="figcaption"><a href="https://www.nationalgeographic.com.es/mundo-animal/animales-peligro-extincion_12536" class="author" target="_blank" rel="noopener" title="">National Geographic</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780325811998-smdxuvgxu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de la presente SDA consistirá en realizar un póster sobre los animales en peligro de extinción que ayude a concienciar sobre la importancia de cuidar y conservar la fauna de nuestro planeta. Para ello, el alumnado hará uso de la herramienta digital Canva, haciendo uso de los portátiles que dispone el centro.</p>\n<p>Creo que esta herramienta digital se adecúa al desarrollo evolutivo de mi alumnado de 2º de Educación Primaria. Por un lado, es una herramienta intuitiva que utiliza la lógica de “arrastrar y soltar”, por lo que la manera de trabajar es muy natural e intuitiva para estas edades. Además, ayuda a simplificar la tarea, permitiendo que el alumnado se centre en la decisión estética del contenido sin que la dificultad de dibujar o recortar manualmente, lo que es una barrera para quienes tienen dificultades motoras.</p>\n<p>Asimismo, Canva permite trabajar con elementos gráficos que ayudan a los alumnos que aún no tienen una lectoescritura fluida a comprender y transmitir conceptos, por ejemplo, a través de iconos.</p>\n<p>Por otro lado, como docente, me permite crear una plantilla controlada, con el fondo fijo y los cuadros de texto ya ubicados, dejando que el alumnado solo inserte la foto del animal y su nombre. Esto garantiza que el producto final sea exitoso, reforzando su autoestima y motivación. Además, me permite entrar en sus diseños en tiempo real para ayudarles o corregir pequeñas erratas sin tener que estar físicamente al lado de cada uno.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 140px;\"><img src=\"{{context_path}}/content/resources/images.jpeg\" width=\"140\" height=\"140\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.nationalgeographic.com.es/mundo-animal/animales-peligro-extincion_12536\" class=\"author\" target=\"_blank\" rel=\"noopener\" title=\"\">National Geographic</a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx0vzxu-gc5qg0d46</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxu-gc5qg0d46</odePageId>
+      <odeBlockId>block-1780325990972-fpqs6lzwu</odeBlockId>
+      <blockName>Padlet (alumnado)</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxu-gc5qg0d46</odePageId>
+          <odeBlockId>block-1780325990972-fpqs6lzwu</odeBlockId>
+          <odeIdeviceId>idevice-1780325990969-2tyu9mr0g</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/solelarmor1996/animales-en-peligro-de-extincion-uke6cpefq6ajogy" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxu-gc5qg0d46</odePageId>
+      <odeBlockId>block-1780428726488-f61vpk72r</odeBlockId>
+      <blockName>Symbaloo (docentes)</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxu-gc5qg0d46</odePageId>
+          <odeBlockId>block-1780428726488-f61vpk72r</odeBlockId>
+          <odeIdeviceId>idevice-1780428726486-q6qem3xt1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Haz click aquí para visitar el enlace: <a href="https://www.symbaloo.com/shared/AAAABUZd15EAA41_0mAnRg==">https://www.symbaloo.com/shared/AAAABUZd15EAA41_0mAnRg==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780428726486-q6qem3xt1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Haz click aquí para visitar el enlace: <a href=\"https://www.symbaloo.com/shared/AAAABUZd15EAA41_0mAnRg==\">https://www.symbaloo.com/shared/AAAABUZd15EAA41_0mAnRg==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx0vzxv-q2nhgbxc0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxv-q2nhgbxc0</odePageId>
+      <odeBlockId>block-1780326181391-v1ynqxgpq</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxv-q2nhgbxc0</odePageId>
+          <odeBlockId>block-1780326181391-v1ynqxgpq</odeBlockId>
+          <odeIdeviceId>idevice-1780326181388-u2685wujz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.tiki-toki.com/timeline/entry/2246948/Linea-temporal/" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx0vzxv-rmf8ocwpk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxv-rmf8ocwpk</odePageId>
+      <odeBlockId>block-1780326354180-l4icf8xbr</odeBlockId>
+      <blockName>Instrumento de evaluación 1</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxv-rmf8ocwpk</odePageId>
+          <odeBlockId>block-1780326354180-l4icf8xbr</odeBlockId>
+          <odeIdeviceId>idevice-1780326354177-9zwjgojnn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Utilizaré la técnica de evaluación pruebas a través de un cuestionario creado con la herramienta Plickers. </p>
+<p>Enlace:  <a href="http://www.plickers.com/sole1996/CDD-B2-89587">www.plickers.com/sole1996/CDD-B2-89587 </a></p>
+<p>He elegido realizar este instrumento ya que Plickers transforma una evaluación tradicional en un "juego de preguntas". Lo mejor de esta herramienta es que los alumnos no necesitan dispositivos electrónicos que puedan distraerlos o generar frustración si no saben manejarlos bien. Ellos solo sostienen su tarjeta de papel, lo que mantiene el foco en el contenido y en la interacción conmigo.</p>
+<p>Este cuestionario se realizará al final de la SDA, una vez trabajados todos los contenidos y expuesto el producto final (el póster sobre los animales en peligro de extinción)</p>
+<p>Con este instrumento pretendo evaluar varios aspectos:</p>
+<p>-              Contenidos curriculares del área de Conocimiento del Medio Natural, Social y Cultural. Por ejemplo, la comprensión del impacto humano en la supervivencia de los animales, la clasificación de los animales según su forma de reproducción, el concepto de especie en peligro de extinción, etc.</p>
+<p>-              Comprensión lectora y auditiva del alumnado. Al leer las preguntas en la pantalla o al escucharme a mi leerlas en voz alta, evalúo su capacidad para procesar la información y asociar el enunciado con la opción correcta.</p>
+<p>-              Autonomía y toma de decisiones. Al votar con su tarjeta de forma individual, evalúo la capacidad de cada niño para elegir una respuesta según su propio criterio, sin dejarse influenciar por lo que hacen sus compañeros de mesa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780326354177-9zwjgojnn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Utilizaré la técnica de evaluación pruebas a través de un cuestionario creado con la herramienta Plickers. </p>\n<p>Enlace:  <a href=\"http://www.plickers.com/sole1996/CDD-B2-89587\">www.plickers.com/sole1996/CDD-B2-89587 </a></p>\n<p>He elegido realizar este instrumento ya que Plickers transforma una evaluación tradicional en un \"juego de preguntas\". Lo mejor de esta herramienta es que los alumnos no necesitan dispositivos electrónicos que puedan distraerlos o generar frustración si no saben manejarlos bien. Ellos solo sostienen su tarjeta de papel, lo que mantiene el foco en el contenido y en la interacción conmigo.</p>\n<p>Este cuestionario se realizará al final de la SDA, una vez trabajados todos los contenidos y expuesto el producto final (el póster sobre los animales en peligro de extinción)</p>\n<p>Con este instrumento pretendo evaluar varios aspectos:</p>\n<p>-              Contenidos curriculares del área de Conocimiento del Medio Natural, Social y Cultural. Por ejemplo, la comprensión del impacto humano en la supervivencia de los animales, la clasificación de los animales según su forma de reproducción, el concepto de especie en peligro de extinción, etc.</p>\n<p>-              Comprensión lectora y auditiva del alumnado. Al leer las preguntas en la pantalla o al escucharme a mi leerlas en voz alta, evalúo su capacidad para procesar la información y asociar el enunciado con la opción correcta.</p>\n<p>-              Autonomía y toma de decisiones. Al votar con su tarjeta de forma individual, evalúo la capacidad de cada niño para elegir una respuesta según su propio criterio, sin dejarse influenciar por lo que hacen sus compañeros de mesa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxv-rmf8ocwpk</odePageId>
+      <odeBlockId>block-1780326486401-thlzqfgoy</odeBlockId>
+      <blockName>Instrumento de evaluación 2</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxv-rmf8ocwpk</odePageId>
+          <odeBlockId>block-1780326486401-thlzqfgoy</odeBlockId>
+          <odeIdeviceId>idevice-1780326486399-96bbxljo5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El siguiente instrumento es una diana de coevaluación para evaluar el trabajo en parejas. </p>
+<p>El motivo por el que he diseñado este instrumento es porque una diana de coevaluación es un instrumento visual excelente para 2º de Primaria. Permite que los alumnos evalúen el trabajo en parejas de una forma muy gráfica y fácil de entender: cuanto más cerca del centro esté el punto, significa que queda más camino por mejorar.</p>
+<p>Antes de colorear la diana, los alumnos leerán la rúbrica que aparece detrás de la diana para saber qué puntuación (del 1 al 4) poner. Los alumnos deberán colorear cada eje según el trabajo que hayan realizado, reflexionando y dialogando para llegar a un consenso. Para cerrar la coevaluación les pediré que completen las frases:</p>
+<p>“Lo que más me ha gustado de trabajar con mi compañero/a ha sido...”<br />“Para el próximo proyecto, podemos mejorar en...”<br /></p>
+<p>Esta diana de coevaluación se entregará a cada pareja después de las exposiciones orales de los pósteres sobre animales en peligro de extinción. Se realizará en el aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780326486399-96bbxljo5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El siguiente instrumento es una diana de coevaluación para evaluar el trabajo en parejas. </p>\n<p>El motivo por el que he diseñado este instrumento es porque una diana de coevaluación es un instrumento visual excelente para 2º de Primaria. Permite que los alumnos evalúen el trabajo en parejas de una forma muy gráfica y fácil de entender: cuanto más cerca del centro esté el punto, significa que queda más camino por mejorar.</p>\n<p>Antes de colorear la diana, los alumnos leerán la rúbrica que aparece detrás de la diana para saber qué puntuación (del 1 al 4) poner. Los alumnos deberán colorear cada eje según el trabajo que hayan realizado, reflexionando y dialogando para llegar a un consenso. Para cerrar la coevaluación les pediré que completen las frases:</p>\n<p>“Lo que más me ha gustado de trabajar con mi compañero/a ha sido...”<br />“Para el próximo proyecto, podemos mejorar en...”<br /></p>\n<p>Esta diana de coevaluación se entregará a cada pareja después de las exposiciones orales de los pósteres sobre animales en peligro de extinción. Se realizará en el aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxv-rmf8ocwpk</odePageId>
+      <odeBlockId>block-1780429339003-usk2ulxwh</odeBlockId>
+      <blockName>Enlace para acceder a la diana de coevaluación</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxv-rmf8ocwpk</odePageId>
+          <odeBlockId>block-1780429339003-usk2ulxwh</odeBlockId>
+          <odeIdeviceId>idevice-1780429339002-hs8kz1q9b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Enlace para acceder a la diana de coevaluación: <a href="https://drive.google.com/file/d/1j_yEh7s9x9_datYxbpyr4zyY-tZ1MJk7/view?usp=share_link">https://drive.google.com/file/d/1j_yEh7s9x9_datYxbpyr4zyY-tZ1MJk7/view?usp=share_link</a> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780429339002-hs8kz1q9b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Enlace para acceder a la diana de coevaluación: <a href=\"https://drive.google.com/file/d/1j_yEh7s9x9_datYxbpyr4zyY-tZ1MJk7/view?usp=share_link\">https://drive.google.com/file/d/1j_yEh7s9x9_datYxbpyr4zyY-tZ1MJk7/view?usp=share_link</a> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx0vzxw-qn3mabypk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos finales</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos finales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos finales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx0vzxw-qn3mabypk</odePageId>
+      <odeBlockId>block-1780326710390-zjqts6hkl</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx0vzxw-qn3mabypk</odePageId>
+          <odeBlockId>block-1780326710390-zjqts6hkl</odeBlockId>
+          <odeIdeviceId>idevice-1780326710389-q9oftt837</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SDA8. LOS ANIMALES</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta situación de aprendizaje propone el estudio de los distintos grupos de animales vertebrados, orientando el aprendizaje hacia la sensibilización y el reconocimiento de los animales que se encuentran en riesgo de extinción.
+El producto final de la presente SDA consistirá en realizar un póster sobre los animales en peligro de extinción que ayude a concienciar sobre la importancia de cuidar y conservar la fauna de nuestro planeta. Para ello, el alumnado hará uso de la herramienta digital Canva.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Soledad Lara Morales</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
